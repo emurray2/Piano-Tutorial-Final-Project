@@ -7,6 +7,7 @@ Welcome! If you are watching my series, "How To Make an iOS Music App," you've c
 - FluidR3 GM.sf2
 - AudioKit.framework
 - AudioKitUI.framework
+- Piano-Tutorial-Final-Project/Piano-Tutorial-Final-Project/Piano/Piano.xcdatamodeld
 
 #
 [Download FluidR3 GM.sf2](https://github.com/urish/cinto/blob/master/media/FluidR3%20GM.sf2)
@@ -16,4 +17,6 @@ Click on the AudioKit-iOS-{VERSION}.zip link to download the latest version of A
 Go to your downloads folder and unzip the file "AudioKit-iOS-{VERSION}.zip"
 Click on the new folder called "AudioKit-iOS"
 Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.framework" into your Xcode Project
+#
+Google drive link: [Piano.xcdatamodeld](https://drive.google.com/drive/folders/1k3-g6rdvIhefN4EDY7h62u9wRpIjvFYE?usp=sharing)
 
