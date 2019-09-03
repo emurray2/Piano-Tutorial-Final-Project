@@ -20,3 +20,6 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 #
 Google drive link: [Piano.xcdatamodeld](https://drive.google.com/drive/folders/1k3-g6rdvIhefN4EDY7h62u9wRpIjvFYE?usp=sharing)
 
+## If you're still having problems, just download the release package and unarchive it:
+[Download Release](https://github.com/emurray2/Piano-Tutorial-Final-Project/releases/download/1.0/Piano-Tutorial-Final-Project.cpgz)
+
