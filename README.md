@@ -4,10 +4,10 @@ Welcome! If you are watching my series, "How To Make an iOS Music App," you've c
 
 # PLEASE NOTE:
 ### The Following files are missing from this Github Repo. You will need these for your Xcode project to compile successfully! Please follow the instructions [here]() if you are having trouble downloading/installing them into your project.
-
-+FluidR3 GM.sf2
-+AudioKit.framework
-+AudioKitUI.framework
++These ones:
+  +FluidR3 GM.sf2
+  +AudioKit.framework
+  +AudioKitUI.framework
 
   +[Download FluidR3 GM.sf2](https://github.com/urish/cinto/blob/master/media/FluidR3%20GM.sf2)
   +Go to the official Audio Kit Website - [audiokit.io/downloads](https://audiokit.io/downloads)
