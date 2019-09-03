@@ -9,8 +9,8 @@ Welcome! If you are watching my series, "How To Make an iOS Music App," you've c
 +AudioKit.framework
 +AudioKitUI.framework
 
-[Download FluidR3 GM.sf2](https://github.com/urish/cinto/blob/master/media/FluidR3%20GM.sf2)
-Go to the official Audio Kit Website - [audiokit.io/downloads](https://audiokit.io/downloads)
+  +[Download FluidR3 GM.sf2](https://github.com/urish/cinto/blob/master/media/FluidR3%20GM.sf2)
+  +Go to the official Audio Kit Website - [audiokit.io/downloads](https://audiokit.io/downloads)
 Click on the AudioKit-iOS-{VERSION}.zip link to download the latest version of AudioKit frameworks
 Go to your downloads folder and unzip the file "AudioKit-iOS-{VERSION}.zip"
 Click on the new folder called "AudioKit-iOS"
